@@ -1,2 +1,0 @@
-# rhasudev
-HNG web training
